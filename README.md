@@ -1,3 +1,5 @@
+<img width="1919" height="1079" alt="metamorphosis-brand-agency" src="https://github.com/user-attachments/assets/955c0daa-0bf9-4cff-9dc1-87bda0c4e705" />
+
 # Metamorphosis Studio — Brand Transformation Portfolio
 
 > A premium, interactive portfolio showcasing before-and-after brand transformation case studies, built with React, Vite, Tailwind CSS v4, and Framer Motion.
